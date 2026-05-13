@@ -1,0 +1,33 @@
+language,question,gold,predicted_en,final_answer,em,f1,ret_rounds,res_rounds,total_time
+en,Who invented the telephone?,Alexander Graham Bell,Alexander Graham Bell,Alexander Graham Bell,1,100.0,1,3,12.45
+en,Who painted the Mona Lisa?,Leonardo da Vinci,Leonardo da Vinci,Leonardo da Vinci,1,100.0,1,3,10.04
+en,What is the capital of France?,Paris,Paris,Paris,1,100.0,1,3,10.81
+en,Who wrote Romeo and Juliet?,William Shakespeare,William Shakespeare,William Shakespeare,1,100.0,1,3,11.0
+en,When did World War II end?,1945,"World War II officially ended on September 2, 1945, when Japan signed the Instrument of Surrender aboard the USS Missouri in Tokyo Bay.","World War II officially ended on September 2, 1945, when Japan signed the Instrument of Surrender aboard the USS Missouri in Tokyo Bay.",0,9.1,1,3,32.96
+en,Who won the 2022 FIFA World Cup?,Argentina,France,France,0,0.0,1,3,20.08
+en,What is the chemical formula for water?,H2O,H2O,H2O,1,100.0,1,3,9.59
+en,Who is Melissa Reese?,Melissa Reese Guns N Roses,Melissa Reese could be any of these individuals depending on the context or source providing this information.,Melissa Reese could be any of these individuals depending on the context or source providing this information.,0,19.0,1,3,42.48
+fr,Qui a inventé le téléphone?,Alexander Graham Bell,Alexander Graham Bell,Alexander Graham Bell,1,100.0,2,3,18.47
+fr,Qui a peint la Joconde?,Leonardo da Vinci,Pablo Picasso,Pablo Picasso,0,0.0,3,3,22.55
+fr,Quelle est la capitale de la France?,Paris,Paris,Paris,1,100.0,1,3,11.09
+fr,Qui a écrit Roméo et Juliette?,William Shakespeare,William Shakespeare,William Shakespeare,1,100.0,1,3,11.54
+fr,Quand la Seconde Guerre mondiale a-t-elle pris fin?,1945,"The Second World War ended on August 15, 1945, when Japan announced its unconditional surrender. This was followed by the formal signing of the instrument of surrender on September 2, 1945, aboard the USS Missouri in Tokyo Bay.","La Seconde Guerre mondiale a pris fin le 15 août 1945, lorsque le Japon a annoncé sa reddition inconditionnelle, suivie de la signature officielle de l'instrument de reddition le 2 septembre 1945, à bord du Missouri USS à Tokyo Bay.",0,5.7,1,3,31.04
+fr,Qui a remporté la Coupe du monde 2022?,Argentina,France,France,0,0.0,1,3,21.33
+fr,Quelle est la formule chimique de l'eau?,H2O,H2O,H2O,1,100.0,2,3,25.97
+fr,Qui est Melissa Reese?,Melissa Reese Guns N Roses,"Melissa Reese could refer to various individuals depending on the context. She might be a musician (current member of Guns N' Roses), an actor (character from Romeo and Juliet), or someone associated with the city of Berlin.","Melissa Reese could refer to various individuals depending on the context. She might be a musician (current member of Guns N' Roses), an actor (character from Romeo and Juliet), or someone associated with the city of Berlin.",0,26.3,1,3,37.73
+de,Wer hat das Telefon erfunden?,Alexander Graham Bell,Alexander Graham Bell,Alexander Graham Bell,1,100.0,2,3,18.35
+de,Wer hat die Mona Lisa gemalt?,Leonardo da Vinci,Leonardo da Vinci,Leonardo da Vinci,1,100.0,1,3,10.38
+de,Was ist die Hauptstadt von Frankreich?,Paris,Paris,Frankreich,1,100.0,1,3,11.1
+de,Wer hat Romeo und Julia geschrieben?,William Shakespeare,William Shakespeare,William Shakespeare,1,100.0,1,3,11.34
+de,Wann endete der Zweite Weltkrieg?,1945,"World War II officially ended on September 2, 1945, when Japan signed the Instrument of Surrender aboard the USS Missouri in Tokyo Bay.","September 1945, als Japan das Instrument of Surrender an Bord der USS Missouri in Tokyo Bay unterschrieb.",0,9.1,1,3,33.9
+de,Wer gewann die FIFA Weltmeisterschaft 2022?,Argentina,France,Frankreich,0,0.0,1,3,20.26
+de,Was ist die chemische Formel für Wasser?,H2O,H2O,H2O,1,100.0,1,3,10.27
+de,Wer ist Melissa Reese?,Melissa Reese Guns N Roses,Melissa Reese is an American musician who is currently a member of the hard rock band Guns N' Roses.,"Melissa Reese ist eine US-amerikanische Musikerin, die derzeit Mitglied der Hardrock-Band Guns N' Roses ist.",0,47.6,2,3,45.26
+es,¿Quién inventó el teléfono?,Alexander Graham Bell,Alexander Graham Bell,Alexander Graham Bell,1,100.0,2,3,18.98
+es,¿Quién pintó la Mona Lisa?,Leonardo da Vinci,Leonardo da Vinci,Leonardo da Vinci,1,100.0,1,3,10.68
+es,¿Cuál es la capital de Francia?,Paris,Paris,París,1,100.0,1,3,11.31
+es,¿Quién escribió Romeo y Julieta?,William Shakespeare,William Shakespeare,William Shakespeare,1,100.0,1,3,11.56
+es,¿Cuándo terminó la Segunda Guerra Mundial?,1945,"World War II officially ended on September 2, 1945, when Japan signed the Instrument of Surrender aboard the USS Missouri in Tokyo Bay.","La Segunda Guerra Mundial terminó oficialmente el 2 de septiembre de 1945, cuando Japón firmó el Instrumento de Rendición a bordo del USS Missouri en la Bahía de Tokio.",0,9.1,1,3,61.61
+es,¿Quién ganó el Mundial 2022?,Argentina,France,Francia,0,0.0,1,3,43.5
+es,¿Cuál es la fórmula química del agua?,H2O,H2O,H2O,1,100.0,3,3,53.26
+es,¿Quién es Melissa Reese?,Melissa Reese Guns N Roses,"Melissa Reese is an American actress and model known for her roles in television shows such as ""The Good Wife"" and ""Scandal.""","Melissa Reese est une actrice et mannequin américaine connue pour ses rôles dans des émissions de télévision telles que ""The Good Wife"" et ""Scandal"".",0,16.0,3,3,99.46
